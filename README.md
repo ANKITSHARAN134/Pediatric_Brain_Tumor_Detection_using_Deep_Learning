@@ -2,7 +2,7 @@
 This project aims to detect and classify pediatric brain tumors using deep learning techniques applied to MRI images. 
 With a focus on non-invasive medical imaging and neural networks, our work contributes to the advancement of automated, accurate diagnosis in pediatric neuro-oncology.
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 
 -> Python
 
@@ -16,7 +16,7 @@ With a focus on non-invasive medical imaging and neural networks, our work contr
 
 ->Matplotlib / Seaborn
 
-🔬 Key Contributions & Findings:
+#🔬 Key Contributions & Findings:
 
 -> Developed CNN-based models for tumor classification and segmentation
 
@@ -26,7 +26,7 @@ With a focus on non-invasive medical imaging and neural networks, our work contr
 
 -> Evaluated using metrics like accuracy, F1 score, Dice coefficient, and ROC AUC
 
-📊 Performance Metrics:
+#📊 Performance Metrics:
 
 | Task                 | Metric                  | Result         |
 | -------------------- | ----------------------- | -------------- |
