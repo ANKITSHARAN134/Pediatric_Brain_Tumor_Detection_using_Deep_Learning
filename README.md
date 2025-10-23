@@ -35,6 +35,11 @@ With a focus on non-invasive medical imaging and neural networks, our work contr
 | Tumor Classification | F1 Score                |    ≈ 0.80+     |
 | ROC AUC              | Tumor Type Detection    |    > 0.99      |
 
+# Visit Here:- 🌏
+https://colab.research.google.com/drive/1xP5lsxHCZNsd7fRynn88Fji_dBfmKDSG?usp=sharing
+
+
+
 
 
 
